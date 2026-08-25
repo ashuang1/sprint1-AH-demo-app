@@ -4,6 +4,6 @@ public class Greeter {
     }
 
     public String greetInformal(String name) {
-        return "Hey " + name + "!";
+        return "Bye " + name + "!";
     }
 }
